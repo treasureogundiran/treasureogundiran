@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **treasureogundiran/treasureogundiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about my technical projects and what motivates me
 - 📫 How to reach me: {"email":"ogundir2@msu.edu", "linkedin":"https://www.linkedin.com/in/treasure-ogundiran-852243197/"}
 - ⚡ Fun fact: I wanted to be a doctor, but then I saw Tony Stark's robots and decided to be an engineer
--->
