@@ -1,9 +1,9 @@
 ### Hi there 👋
-**treasureogundiran/treasureogundiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **treasureogundiran/treasureogundiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+#I'm Treasure Ogundiran
 
-- 🔭 I’m currently working on buildinh my portfolio and hosting it on github
+- 🔭 I’m currently working on building my portfolio and hosting it on github
 - 🌱 I’m currently learning to build interactive websites with javascript
 - 👯 I’m looking to collaborate on building websites, apps, and AI/ML projects
 - 🤔 I’m looking for help with backend development and building APIs
